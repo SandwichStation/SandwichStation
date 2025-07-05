@@ -195,14 +195,3 @@
   - type: Sprite
     sprite: _Goobstation/Structures/posters.rsi
     state: goob_poster1_contraband
-
-
-- type: entity
-  parent: PosterBase
-  id: PosterContrabandGoobYakub
-  name: "Dave Poster"
-  description: "Wassup, my dude! I'm a poster!'"
-  components:
-  - type: Sprite
-    sprite: _Goobstation/Structures/posters.rsi
-    state: goob_poster2_contraband
