@@ -18,14 +18,14 @@ namespace Robust.Client.Graphics;
 /// </summary>
 public sealed partial class LoadingScreenManager
 {
-    [Dependency] private readonly IResourceCache _resourceCache = default!;
-    [Dependency] private readonly IClydeInternal _clyde = default!;
-    [Dependency] private readonly IConfigurationManager _cfg = default!;
-    [Dependency] private readonly ILogManager _logManager = default!;
+    [Robust.Shared.IoC.DependencyAttribute] private readonly IResourceCache _resourceCache = default!;
+    [Robust.Shared.IoC.DependencyAttribute] private readonly IClydeInternal _clyde = default!;
+    [Robust.Shared.IoC.DependencyAttribute] private readonly IConfigurationManager _cfg = default!;
+    [Robust.Shared.IoC.DependencyAttribute] private readonly ILogManager _logManager = default!;
 
     private ISawmill _sawmill = default!;
 
-    private readonly Stopwatch _sw = new();
+    private readonly Robust.Shared.Timing.Stopwatch _sw = new();
 
     #region UI constants
 
