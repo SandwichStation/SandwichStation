@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.Contracts;
 using System.IO;
@@ -33,6 +33,8 @@ namespace Robust.Client.Graphics
 
         void SetWindowTitle(string title);
         void SetWindowMonitor(IClydeMonitor monitor);
+
+        void SetVSync(bool newValue);
 
         /// <summary>
         ///     This is the magic method to make the game window ping you in the task bar.

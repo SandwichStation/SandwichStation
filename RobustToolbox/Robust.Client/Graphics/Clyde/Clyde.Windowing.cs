@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Numerics;
@@ -398,7 +398,7 @@ namespace Robust.Client.Graphics.Clyde
             _glContext?.SwapAllBuffers();
         }
 
-        private void VSyncChanged(bool newValue)
+        public void SetVSync(bool newValue)
         {
             _vSync = newValue;
             _glContext?.UpdateVSync();

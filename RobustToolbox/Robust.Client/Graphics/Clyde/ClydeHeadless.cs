@@ -81,6 +81,11 @@ namespace Robust.Client.Graphics.Clyde
             // Nada.
         }
 
+        public void SetVSync(bool newValue)
+        {
+            // Pass
+        }
+
         public uint? GetX11WindowId()
         {
             return null;

@@ -1181,6 +1181,12 @@ namespace Robust.Shared
             CVarDef.Create("display.splash_logo", "", CVar.CLIENTONLY);
 
         /// <summary>
+        /// Show the loading bar when loading the client.
+        /// </summary>
+        public static readonly CVarDef<bool> DisplayShowLoadingBar =
+            CVarDef.Create("display.show_loading_bar", true, CVar.CLIENTONLY);
+
+        /// <summary>
         /// Use US QWERTY hotkeys for reported key names.
         /// </summary>
         public static readonly CVarDef<bool> DisplayUSQWERTYHotkeys =

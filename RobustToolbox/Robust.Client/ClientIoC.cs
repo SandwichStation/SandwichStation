@@ -104,6 +104,7 @@ namespace Robust.Client
             deps.Register<IGamePrototypeLoadManager, GamePrototypeLoadManager>();
             deps.Register<NetworkResourceManager>();
             deps.Register<IReloadManager, ReloadManager>();
+            deps.Register<LoadingScreenManager>();
 
             switch (mode)
             {
