@@ -169,7 +169,7 @@ namespace Robust.Client
             _loadscr.EndLoadingSection();
 
             _loadscr.LoadingStep(_serializationManager.Initialize, _serializationManager);
-            _loadscr.LoadingStep(_loc.Initialize, _loc)
+            _loadscr.LoadingStep(_loc.Initialize, _loc);
 
             // Call Init in game assemblies.
             _modLoader.BroadcastRunLevel(ModRunLevel.PreInit);
