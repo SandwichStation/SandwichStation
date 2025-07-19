@@ -7,7 +7,7 @@
   - SandwichCoreRules
   - SandwichRoleplayRules
   - SandwichJobExpectations
-  - SiliconRules
+  #- SandwichSiliconRules # Currently unsure why it duplicates entries, so disabled for now
 
 - type: guideEntry
   id: SandwichCoreRules
