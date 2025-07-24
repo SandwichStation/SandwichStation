@@ -21,6 +21,7 @@ on:
     branches: [ master, staging, stable ]
   merge_group:
   pull_request:
+    types: [ opened, reopened, synchronize, ready_for_review ]
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
