@@ -210,20 +210,21 @@ namespace Content.IntegrationTests.Tests
             "Origin", // Goobstation - Readds Origin
             "Train",
             "Oasis",
-            //"Cog", FUCK COG
-            "FlandHighPop", // Goobstation - add highpop maps
-            "OriginHighPop",
-            "OasisHighPop",
-            "Barratry", // Goobstation - add Barratry
-            "Kettle", // Goobstation - add Kettle
-            "Submarine", // Goobstation - add Submarine
-            "Lambda", // Goobstation - add Lambda
-            "Leonid", // Goobstation - add Leonid
-            //"Amber", // NO AMBER DHH
-            "Gate", // Goobstation - goob changes
+            "Cog", FUCK COG
+            "FlandHighPop", // Goobstation
+            "OriginHighPop", // Goobstation
+            "OasisHighPop", // Goobstation
+            "Barratry", // Goobstation
+            "Kettle", // Goobstation
+            "Submarine", // Goobstation
+            "Lambda", // Goobstation
+            "Leonid", // Goobstation
+            "Amber", //
+            "Gate", // Goobstation
             "Lavatest", // Lavaland Change
             "Loop",
-            "Delta" // Goobstation - add Delta
+            "Delta", // Goobstation - add Delta
+            "Elkridge"
         };
 
         /// <summary>
