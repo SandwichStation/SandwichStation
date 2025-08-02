@@ -185,3 +185,11 @@
   name: Reclaimer Nuke
   artist: GetOutMarutak, aka. Snicket
 # End Wizden Lobby Screens
+
+# Floofstation Lobby Screens
+- type: lobbyBackground
+  id: Robotics
+  background: /Textures/LobbyScreens/robotics.webp
+  name: Robotics
+  artist: Veritius
+# End Floofstation Lobby Screens
