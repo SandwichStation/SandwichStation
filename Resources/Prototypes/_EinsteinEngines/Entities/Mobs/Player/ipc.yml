@@ -194,6 +194,13 @@
   categories: [ HideSpawnMenu ] # Goobstation
   description: A dummy IPC meant to be used in character setup.
   components:
+  - type: LanguageKnowledge # Einstein Engines - Languages
+    speaks:
+    - TauCetiBasic
+    - RobotTalk
+    understands:
+    - TauCetiBasic
+    - RobotTalk
   - type: HumanoidAppearance
     species: IPC
   - type: Inventory

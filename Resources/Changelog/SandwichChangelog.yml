@@ -167,3 +167,23 @@ Entries:
       message: Goobstation Lobby screens
   id: 20
   time: '2025-07-31T15:21:29.0000000+00:00'
+- author: pantherpusher
+  changes:
+    - type: Add
+      message: SM engine to Elkridge Depot
+    - type: Remove
+      message: Previous Tesla engine
+  id: 21
+  time: '2025-08-08T11:42:07.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Add
+      message: Added a completely new language system
+    - type: Add
+      message: Translator devices / implants
+    - type: Remove
+      message: Old Language system
+    - type: Tweak
+      message: IPC/Vox can no longer be cloned, they arent fleshy
+  id: 22
+  time: '2025-08-08T12:17:00.0000000+00:00'
