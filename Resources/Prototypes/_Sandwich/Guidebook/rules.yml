@@ -288,7 +288,8 @@
   - SandwichJobExSecurityWarden
   - SandwichJobExSiliconAI
   - SandwichJobExSiliconBorg
-  - SandwichJobExCivilianAssistant
+  - SandwichJobExCivilianPassenger
+  - SandwichJobExCivilianOffDuty
   - SandwichJobExCivilianBartender
   - SandwichJobExCivilianBotanist
   - SandwichJobExCivilianBoxer
@@ -501,106 +502,113 @@
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExSiliconBorg.xml"
 
 - type: guideEntry
-  id: SandwichJobExCivilianAssistant
+  id: SandwichJobExCivilianPassenger
   ruleEntry: true
-  name: "Civilian - Assistant"
+  name: "Civilian - Passenger"
   priority: 29
-  text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianAssistant.xml"
+  text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianPassenger.xml"
+
+- type: guideEntry
+  id: SandwichJobExCivilianOffDuty
+  ruleEntry: true
+  name: "Civilian - OffDuty"
+  priority: 29
+  text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianOffDuty.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianBartender
   ruleEntry: true
   name: "Civilian - Bartender"
-  priority: 30
+  priority: 31
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianBartender.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianBotanist
   ruleEntry: true
   name: "Civilian - Botanist"
-  priority: 31
+  priority: 32
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianBotanist.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianBoxer
   ruleEntry: true
   name: "Civilian - Boxer"
-  priority: 32
+  priority: 33
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianBoxer.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianChaplain
   ruleEntry: true
   name: "Civilian - Chaplain"
-  priority: 33
+  priority: 34
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianChaplain.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianChef
   ruleEntry: true
   name: "Civilian - Chef"
-  priority: 34
+  priority: 35
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianChef.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianClown
   ruleEntry: true
   name: "Civilian - Clown"
-  priority: 35
+  priority: 36
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianClown.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianJanitor
   ruleEntry: true
   name: "Civilian - Janitor"
-  priority: 36
+  priority: 37
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianJanitor.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianLawyer
   ruleEntry: true
   name: "Civilian - Lawyer"
-  priority: 37
+  priority: 38
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianLawyer.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianLibrarian
   ruleEntry: true
   name: "Civilian - Librarian"
-  priority: 38
+  priority: 39
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianLibrarian.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianMime
   ruleEntry: true
   name: "Civilian - Mime"
-  priority: 39
+  priority: 40
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianMime.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianMusician
   ruleEntry: true
   name: "Civilian - Musician"
-  priority: 40
+  priority: 41
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianMusician.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianReporter
   ruleEntry: true
   name: "Civilian - Reporter"
-  priority: 41
+  priority: 42
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianReporter.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianServiceWorker
   ruleEntry: true
   name: "Civilian - Service Worker"
-  priority: 42
+  priority: 43
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianServiceWorker.xml"
 
 - type: guideEntry
   id: SandwichJobExCivilianZookeeper
   ruleEntry: true
   name: "Civilian - Zookeeper"
-  priority: 43
+  priority: 44
   text: "/ServerInfo/_Sandwich/Guidebook/ServerRules/JobExpectations/JobExCivilianZookeeper.xml"

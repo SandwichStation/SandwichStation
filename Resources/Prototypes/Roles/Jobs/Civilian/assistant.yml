@@ -74,17 +74,21 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-- type: job # goob edit
+- type: job
   id: Passenger
   name: job-name-passenger
   description: job-description-passenger
   playTimeTracker: JobPassenger
+  requirements:
+    - !type:OverallPlaytimeRequirement
+      time: 14400 # 4 hrs overall playtime
+      inverted: true # Deny Passenger, you are now "Off-Duty"
   startingGear: PassengerGear
   icon: "JobIconPassenger"
   supervisors: job-supervisors-everyone
-  goobcoins: 0 #Goob content
- # access:
- #  - Maintenance
+  goobcoins: 0
+  #access:
+  # - Maintenance # Access removed, when you promote to "Off-Duty" you get access to Maintenance
 
 - type: startingGear
   id: PassengerGear

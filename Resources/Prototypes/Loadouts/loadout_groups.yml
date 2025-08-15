@@ -405,16 +405,24 @@
   - HoPShoes
   - CommandStilettos
 
-# Civilian
+# Passenger
 - type: loadoutGroup
   id: PassengerJumpsuit
   name: loadout-group-passenger-jumpsuit
   loadouts:
   - GreyJumpsuit
   - GreyJumpskirt
+
+
+# Off-duty
+- type: loadoutGroup
+  id: OffDutyJumpsuit
+  name: loadout-group-OffDuty-jumpsuit
+  loadouts:
+  - GreyJumpsuit
+  - GreyJumpskirt
   - AncientJumpsuit
   - RainbowJumpsuit
- # goob changes start
   - GreyMJ
   - BlackMJ
   - BlueMJ
@@ -430,7 +438,6 @@
   - LightBrownMJ
   - BrownMJ
   - MaroonMJ
- # goob changes end
 
 - type: loadoutGroup
   id: PassengerFace

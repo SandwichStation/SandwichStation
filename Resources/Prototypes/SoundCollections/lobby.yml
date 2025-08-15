@@ -108,7 +108,6 @@
 # SPDX-FileCopyrightText: 2025 sirionaut <sirionaut@gmail.com>
 # SPDX-FileCopyrightText: 2025 slarticodefast <161409025+slarticodefast@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 sleepyyapril <123355664+sleepyyapril@users.noreply.github.com>
-# SPDX-FileCopyrightText: 2025 sleepyyapril <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>
 # SPDX-FileCopyrightText: 2025 taydeo <td12233a@gmail.com>
 # SPDX-FileCopyrightText: 2025 tiderwithagun <notrightnow@gmail.com>
 # SPDX-FileCopyrightText: 2025 username <113782077+whateverusername0@users.noreply.github.com>
@@ -120,63 +119,40 @@
 - type: soundCollection
   id: LobbyMusic
   files:
-    - /Audio/_ShibaStation/Lobby/athletic_what_a_mario_world.ogg
-    - /Audio/_ShibaStation/Lobby/a_funky_moment.ogg
-    - /Audio/_ShibaStation/Lobby/black_monday.ogg
-    - /Audio/_ShibaStation/Lobby/boombox_5_extended.ogg
-    - /Audio/_ShibaStation/Lobby/car_dealer.ogg
-    - /Audio/_ShibaStation/Lobby/checkpoint.ogg
-    - /Audio/_ShibaStation/Lobby/cocoa_cave.ogg
-    - /Audio/_ShibaStation/Lobby/connected.ogg
-    - /Audio/_ShibaStation/Lobby/doge_adventure.ogg
-    - /Audio/_ShibaStation/Lobby/dreadzone_training.ogg
-    - /Audio/_ShibaStation/Lobby/file_select.ogg
-    - /Audio/_ShibaStation/Lobby/friends.ogg
-    - /Audio/_ShibaStation/Lobby/good_night_undertale_sg.ogg
-    - /Audio/_ShibaStation/Lobby/hourglass_meadow.ogg
-    - /Audio/_ShibaStation/Lobby/hyvat_herrat.ogg
-    - /Audio/_ShibaStation/Lobby/icosa.ogg
-    - /Audio/_ShibaStation/Lobby/komm_susser_tod_astrophysics.ogg
-    - /Audio/_ShibaStation/Lobby/last_goodbye_undertale_sg.ogg
-    - /Audio/_ShibaStation/Lobby/mikus_instant_crush.ogg
-    - /Audio/_ShibaStation/Lobby/mikus_little_dark_age.ogg
-    - /Audio/_ShibaStation/Lobby/mikus_nightcall.ogg
-    - /Audio/_ShibaStation/Lobby/mikus_real_hero.ogg
-    - /Audio/_ShibaStation/Lobby/mikus_saved_tears.ogg
-    - /Audio/_ShibaStation/Lobby/miku_taken_on.ogg
-    - /Audio/_ShibaStation/Lobby/miku_wants_to_enjoy_the_silence.ogg
-    - /Audio/_ShibaStation/Lobby/most_mysterious_song.ogg
-    - /Audio/_ShibaStation/Lobby/no_more_fucks.ogg
-    - /Audio/_ShibaStation/Lobby/phoron_will_make_us_rich_remix.ogg
-    - /Audio/_ShibaStation/Lobby/psyche_rock.ogg
-    - /Audio/_ShibaStation/Lobby/red_dwarf.ogg
-    - /Audio/_ShibaStation/Lobby/scantily_clad.ogg
-    - /Audio/_ShibaStation/Lobby/she_doesnt_like_you.ogg
-    - /Audio/_ShibaStation/Lobby/space_asshole_remastered.ogg
-    - /Audio/_ShibaStation/Lobby/sparkanoko.ogg
-    - /Audio/_ShibaStation/Lobby/starship_phoenix.ogg
-    - /Audio/_ShibaStation/Lobby/the_bomb.ogg
-    - /Audio/_ShibaStation/Lobby/the_boys_are_back_to_kill_you.ogg
-    - /Audio/_ShibaStation/Lobby/the_gift_of_thought.ogg
-    - /Audio/_ShibaStation/Lobby/the_underbelly.ogg
-    - /Audio/_ShibaStation/Lobby/time_station.ogg
-    - /Audio/_ShibaStation/Lobby/title2.ogg
-    - /Audio/_ShibaStation/Lobby/title3-nmr.ogg
-    - /Audio/_ShibaStation/Lobby/tron_legacy.ogg
-    - /Audio/_ShibaStation/Lobby/ttotm_but_waiting_for_shuttle.ogg
-    - /Audio/_ShibaStation/Lobby/utopia.ogg
-    - /Audio/_ShibaStation/Lobby/vacillate.ogg
-    - /Audio/_ShibaStation/Lobby/velkommen_winxp_sg.ogg
-    - /Audio/_ShibaStation/Lobby/victory_ffx2.ogg
-    - /Audio/_ShibaStation/Lobby/voyager_sm64.ogg
-    - /Audio/_ShibaStation/Lobby/wallspin.ogg
-    - /Audio/_ShibaStation/Lobby/wfc_mkwii_sg.ogg
-    - /Audio/_ShibaStation/Lobby/wonstoppable_101.ogg
-    - /Audio/_ShibaStation/Lobby/shibastation.ogg
-    - /Audio/_ShibaStation/Lobby/rockefellerbeat.ogg
-    - /Audio/_ShibaStation/Lobby/tetorisbeat.ogg
-    - /Audio/_ShibaStation/Lobby/miku_anamanaguchi.ogg
-    - /Audio/_ShibaStation/Lobby/arcadia.ogg
-    - /Audio/_ShibaStation/Lobby/onemore.ogg
-    - /Audio/_ShibaStation/Lobby/miku_confessions-of-a-rotten-girl.ogg
-    - /Audio/_ShibaStation/Lobby/lagoona.ogg
+    # Sandwich - Lobby Songs
+    - /Audio/_Sandwich/Lobby/arcadia.ogg
+    - /Audio/_Sandwich/Lobby/athletic_what_a_mario_world.ogg
+    - /Audio/_Sandwich/Lobby/boombox_5_extended.ogg
+    - /Audio/_Sandwich/Lobby/kitsune_gon.ogg
+    - /Audio/_Sandwich/Lobby/lagoona.ogg
+    - /Audio/_Sandwich/Lobby/rainingmen.ogg
+    - /Audio/_Sandwich/Lobby/recordspin.ogg
+    - /Audio/_Sandwich/Lobby/sandwichstation.ogg
+    - /Audio/_Sandwich/Lobby/shibastation.ogg
+    - /Audio/_Sandwich/Lobby/superkarts.ogg
+    - /Audio/_Sandwich/Lobby/unwelcome_school.ogg
+    - /Audio/_Sandwich/Lobby/eurobeat/rockefellerbeat.ogg
+    - /Audio/_Sandwich/Lobby/memes/sparkanoko.ogg
+    - /Audio/_Sandwich/Lobby/miku/mikus_instant_crush.ogg
+    - /Audio/_Sandwich/Lobby/miku/mikus_little_dark_age.ogg
+    - /Audio/_Sandwich/Lobby/miku/mikus_nightcall.ogg
+    - /Audio/_Sandwich/Lobby/miku/mikus_real_hero.ogg
+    - /Audio/_Sandwich/Lobby/miku/mikus_saved_tears.ogg
+    - /Audio/_Sandwich/Lobby/miku/miku_anamanaguchi.ogg
+    - /Audio/_Sandwich/Lobby/miku/miku_confessions-of-a-rotten-girl.ogg
+    - /Audio/_Sandwich/Lobby/miku/miku_taken_on.ogg
+    - /Audio/_Sandwich/Lobby/miku/miku_wants_to_enjoy_the_silence.ogg
+    - /Audio/_Sandwich/Lobby/miku/plastic_love.ogg
+    - /Audio/_Sandwich/Lobby/retro/komm_susser_tod_astrophysics.ogg
+    - /Audio/_Sandwich/Lobby/retro/psyche_rock.ogg
+    - /Audio/_Sandwich/Lobby/retro/sweetplasma.ogg
+    - /Audio/_Sandwich/Lobby/retro/tigereye.ogg
+    - /Audio/_Sandwich/Lobby/retro/touchout.ogg
+    - /Audio/_Sandwich/Lobby/retro/treasure_trove_cove.ogg
+    - /Audio/_Sandwich/Lobby/backstab.ogg
+    # End Lobby Songs
+
+# Sandwich - Xmas songs, uncomment to enable
+#    - /Audio/_Sandwich/Lobby/xmas/all_i_want_for_christmas.ogg
+#    - /Audio/_Sandwich/Lobby/xmas/jingle_bells.ogg
+# End Xmas

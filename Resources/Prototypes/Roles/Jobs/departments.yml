@@ -130,6 +130,7 @@
   - Mime
   - Musician
   - Passenger
+  - OffDuty # Sandwich - Off-duty crew, same as passenger but with more rights
   - Reporter
   - Visitor
   - Zookeeper

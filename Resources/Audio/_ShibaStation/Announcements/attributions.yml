@@ -43,11 +43,6 @@
   copyright: "Created by AstroDogeDX"
   source: "https://github.com/AstroDogeDX/ShibaStation-GS"
 
-- files: ["alert-hyde.ogg"]
-  license: "CC-BY-NC-4.0"
-  copyright: "Created by AstroDogeDX"
-  source: "https://github.com/AstroDogeDX/ShibaStation-GS"
-
 - files: ["alert-dave.ogg"]
   license: "CC-BY-SA-3.0"
   copyright: "Voice:Azrakoth"

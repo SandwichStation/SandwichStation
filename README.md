@@ -20,9 +20,9 @@ While _SandwichStation_ doesn't use the [contribution guidelines,](https://docs.
 
 ## Building
 
-Please check our [Documentation](https://docs.b3ckdoor.com/en/general-development/setup.html) for steps on how to build your own version.
+Please check our [Documentation](https://docs.sandwich14.com/en/general-development/setup.html) for steps on how to build your own version.
 
-[More detailed instructions on building the project.](https://docs.b3ckdoor.com/en/general-development/setup.html)
+[More detailed instructions on building the project.](https://docs.sandwich14.com/en/general-development/setup.html)
 
 ## License
 [You can find our license on the license tab above](https://github.com/SandwichStation/SandwichStation?tab=License-1-ov-file)

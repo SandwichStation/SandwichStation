@@ -66,7 +66,7 @@ job-name-chaplain = Chaplain
 job-name-botanist = Botanist
 job-name-bartender = Bartender
 ## goob edit - epic passengers
-job-name-passenger = Assistant
+job-name-passenger = Passenger
 job-name-salvagespec = Salvage Specialist
 job-name-station-ai = Station AI
 job-name-qm = Quartermaster
@@ -100,7 +100,7 @@ job-title-visitor = Visitor
 job-title-cluwne = Cluwne
 job-title-universal = Universal
 
-# Role timers - Make these alphabetical or I cut you
+# Role timers
 JobAtmosphericTechnician = Atmospheric Technician
 JobBartender = Bartender
 JobBorg = Borg

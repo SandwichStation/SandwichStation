@@ -11,9 +11,11 @@
 # SPDX-FileCopyrightText: 2025 Errant <35878406+Errant-4@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Fishbait <Fishbait@git.ml>
 # SPDX-FileCopyrightText: 2025 GoobBot <uristmchands@proton.me>
+# SPDX-FileCopyrightText: 2025 OnsenCapy <101037138+OnsenCapy@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 Solstice <solsticeofthewinter@gmail.com>
 # SPDX-FileCopyrightText: 2025 deltanedas <39013340+deltanedas@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 fishbait <gnesse@gmail.com>
+# SPDX-FileCopyrightText: 2025 gluesniffler <159397573+gluesniffler@users.noreply.github.com>
 # SPDX-FileCopyrightText: 2025 grub <unalterableness@gmail.com>
 # SPDX-FileCopyrightText: 2025 shityaml <unalterableness@gmail.com>
 #
@@ -120,6 +122,12 @@
     speechSounds: Bass
   - type: ReplacementAccent
     accent: gondola
+  - type: LanguageSpeaker # Einstein Engines - Language
+  - type: LanguageKnowledge # Einstein Engines - Language
+    speaks:
+    - TauCetiBasic # Replacement Accent will have to do for now until custom language.
+    understands:
+    - TauCetiBasic # Replacement Accent will have to do for now until custom language.
   - type: HTN
     rootTask:
       task: IdleCompound
@@ -246,6 +254,12 @@
     speechVerb: SmallMob
     speechSounds: Squeak
     allowedEmotes: ['Squeak']
+  - type: LanguageSpeaker # Einstein Engines - Language
+  - type: LanguageKnowledge # Einstein Engines - Language
+    speaks:
+    - TauCetiBasic
+    understands:
+    - TauCetiBasic
   - type: MobState
   - type: DamageStateVisuals
     states:
@@ -367,6 +381,11 @@
     color: "#808080"
     activateSound: null
     deactivateSound: null
+  - type: LanguageKnowledge # Einstein Engines - Language (prevent universal)
+    speaks:
+    - TauCetiBasic # Is sentient, should have TauCeti since it's the norm.
+    understands:
+    - TauCetiBasic
 
 
 - type: entity
@@ -463,6 +482,11 @@
         Slash: 10
   - type: Item
     size: Tiny
+  - type: LanguageKnowledge # Einstein Engines - Language
+    speaks:
+    - TauCetiBasic # Is sentient, should have TauCeti since it is norm.
+    understands:
+    - TauCetiBasic
 
 - type: entity
   parent: MobMouse

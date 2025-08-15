@@ -110,6 +110,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
+# Shibastation Lobby Screens
 - type: lobbyBackground
   id: Revenant
   background: /Textures/_ShibaStation/LobbyScreens/revenant.webp
@@ -139,3 +140,48 @@
   background: /Textures/_ShibaStation/LobbyScreens/good_day_in_science.webp
   name: Average shift in Sci
   artist: K'Braid
+# End Shibastation Lobby Screens
+
+#Wizden Lobby Screens
+- type: lobbyBackground
+  id: Warden
+  background: /Textures/LobbyScreens/warden.webp
+  name: Warden
+  artist: Solbusaur#4343
+
+- type: lobbyBackground
+  id: SSXIV
+  background: /Textures/LobbyScreens/ssxiv.webp
+  name: SSXIV
+  artist: Abyssal#4842
+
+- type: lobbyBackground
+  id: Susstation
+  background: /Textures/LobbyScreens/susstation.webp
+  name: Susstation
+  artist: Alekshhh
+
+- type: lobbyBackground
+  id: Blueprint
+  background: /Textures/LobbyScreens/blueprint.webp
+  name: Blueprint
+  artist: data_redacted
+
+- type: lobbyBackground
+  id: TerminalStation
+  background: /Textures/LobbyScreens/terminalstation.webp
+  name: Terminal Station
+  artist: aserovich
+
+- type: lobbyBackground
+  id: JaniShootout
+  background: /Textures/LobbyScreens/janishootout.webp
+  name: Jani Shootout
+  artist: psychpsyo
+
+- type: lobbyBackground
+  id: ReclaimerNuke
+  background: /Textures/LobbyScreens/reclaimer-nuke.webp
+  name: Reclaimer Nuke
+  artist: GetOutMarutak, aka. Snicket
+# End Wizden Lobby Screens

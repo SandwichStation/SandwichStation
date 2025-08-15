@@ -156,6 +156,7 @@
             MailCarrier: [ 1, 1 ]
             #civilian
             Passenger: [ -1, -1 ]
+            OffDuty: [ -1, -1 ]
             Clown: [ 1, 1 ]
             Mime: [ 1, 1 ]
             Musician: [ 1, 1 ]

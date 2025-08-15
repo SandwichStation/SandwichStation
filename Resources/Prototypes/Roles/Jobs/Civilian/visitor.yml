@@ -16,7 +16,7 @@
   icon: JobIconVisitor
   setPreference: false
   overrideConsoleVisibility: true
-  access:
-  - Maintenance
+  #access:
+  #- Maintenance # Sandwich - Why do random visitors have access to maints but Passengers don't?
   extendedAccess:
   - External

@@ -281,6 +281,8 @@ public sealed partial class LatheMenu : DefaultWindow
             {
                 if (!int.TryParse(AmountLineEdit.Text, out var amount) || amount <= 0)
                     amount = 1;
+                if (amount > 1000)
+                    return; /// Sandwich - Integer overflow prevention, if more then 1000 items are requested, the lathe will refuse to produce them.
                 RecipeQueueAction?.Invoke(s, amount);
             };
             RecipeList.AddChild(control);

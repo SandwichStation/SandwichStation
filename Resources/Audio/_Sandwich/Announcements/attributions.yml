@@ -1,0 +1,9 @@
+- files: ["war.ogg"]
+  license: "CC-BY-SA-3.0"
+  copyright: "Soundbit at beginning: Paradise"
+  source: "https://github.com/ParadiseSS13/Paradise/blob/07b26ee6b4a11a0607986d322ee007020569feae/sound/effects/siren.ogg"
+
+- files: ["war.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Music: Le Castle Vania"
+  source: "https://www.youtube.com/watch?v=cyhT0qwNe-4"

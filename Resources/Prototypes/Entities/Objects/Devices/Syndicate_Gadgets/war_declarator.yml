@@ -36,8 +36,8 @@
           type: WarDeclaratorBoundUserInterface
     - type: WarDeclarator
       message: war-declarator-default-message
-      sound: # Goobstation
-        path: /Audio/_Goobstation/Announcements/war.ogg
+      sound: # Sandwich - Better "hype" music for war
+        path: /Audio/_Sandwich/Announcements/war.ogg
     - type: AccessReader
       access: [["NuclearOperative"]]
 

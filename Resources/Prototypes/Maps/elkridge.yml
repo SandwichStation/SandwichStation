@@ -1,7 +1,7 @@
 - type: gameMap
   id: Elkridge
   mapName: 'Elkridge'
-  mapPath: /Maps/_ShibaStation/elkridge.yml
+  mapPath: /Maps/_Sandwich/elkridge.yml
   minPlayers: 0
   maxPlayers: 45
   stations:
@@ -21,6 +21,8 @@
           availableJobs:
             #service
             Captain: [ 1, 1 ]
+            NanotrasenRepresentative: [ 1, 1 ]
+            BlueshieldOfficer: [ 1, 1 ]
             HeadOfPersonnel: [ 1, 1 ]
             Bartender: [ 1, 1 ]
             Botanist: [ 1, 2 ]
@@ -59,6 +61,7 @@
             CargoTechnician: [ 2, 3 ]
             #civilian
             Passenger: [ -1, -1 ]
+            OffDuty: [ -1, -1 ]
             Clown: [ 1, 1 ]
             Mime: [ 1, 1 ]
             Musician: [ 1, 1 ]

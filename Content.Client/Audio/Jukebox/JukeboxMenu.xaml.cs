@@ -13,6 +13,7 @@ using Robust.Client.UserInterface.XAML;
 using Robust.Shared.Audio.Components;
 using Robust.Shared.Prototypes;
 using Robust.Shared.Timing;
+using System.Linq;
 using FancyWindow = Content.Client.UserInterface.Controls.FancyWindow;
 
 namespace Content.Client.Audio.Jukebox;
@@ -87,13 +88,16 @@ public sealed partial class JukeboxMenu : FancyWindow
     }
 
     /// <summary>
-    /// Re-populates the list of jukebox prototypes available.
+    /// Re-populates the list of jukebox prototypes available, sorted alphabetically.
     /// </summary>
     public void Populate(IEnumerable<JukeboxPrototype> jukeboxProtos)
     {
         MusicList.Clear();
 
-        foreach (var entry in jukeboxProtos)
+        // Sort the jukeboxProtos alphabetically by Name
+        var sortedProtos = jukeboxProtos.OrderBy(proto => proto.Name);
+
+        foreach (var entry in sortedProtos)
         {
             MusicList.AddItem(entry.Name, metadata: entry.ID);
         }

@@ -82,6 +82,7 @@
             MailCarrier: [ 1, 2 ] # ShibaStation - Mail carrier slots!
             #civilian
             Passenger: [ -1, -1 ]
+            OffDuty: [ -1, -1 ]
             Clown: [ 1, 1 ]
             Mime: [ 1, 1 ]
             Musician: [ 1, 1 ]

@@ -30,6 +30,7 @@ concurrency:
 jobs:
   validate_rsis:
     name: Validate RSIs
+    if: github.event.pull_request.draft == false
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4.2.2

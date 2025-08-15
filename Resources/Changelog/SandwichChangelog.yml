@@ -115,3 +115,75 @@ Entries:
       message: Broken links in the Guidebook
   id: 16
   time: '2025-07-21T10:47:51.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Fix
+      message: Fixed crash of server on printing 1000+ items at the same time
+  id: 17
+  time: '2025-07-25T15:52:56.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Add
+      message: Added new "job" Off-Duty
+    - type: Remove
+      message: Removed Maints access for Passengers permanently.
+    - type: Tweak
+      message: >-
+        Set role playtime restriction on "passenger", making you play "Off-Duty"
+        instead with more access
+    - type: Fix
+      message: >-
+        Fixed Raiders/Shitters having access to maints without removing maints
+        access from good crew
+  id: 18
+  time: '2025-07-27T19:52:29.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Tweak
+      message: Reptilians can now have wigs
+  id: 19
+  time: '2025-07-27T19:52:07.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Fix
+      message: Jukebox songs are now sorted
+    - type: Fix
+      message: Added missing attributions for music/textures
+    - type: Add
+      message: New lobby screens
+    - type: Add
+      message: New lobby music
+    - type: Tweak
+      message: NukeOps Music
+    - type: Tweak
+      message: NukeArmed Music
+    - type: Tweak
+      message: TEMP. disabled "known music" in favor of newer ones
+    - type: Remove
+      message: Hyde admeme
+    - type: Remove
+      message: Goobstation Music for Lobby/Jukebox
+    - type: Remove
+      message: Goobstation Lobby screens
+  id: 20
+  time: '2025-07-31T15:21:29.0000000+00:00'
+- author: pantherpusher
+  changes:
+    - type: Add
+      message: SM engine to Elkridge Depot
+    - type: Remove
+      message: Previous Tesla engine
+  id: 21
+  time: '2025-08-08T11:42:07.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Add
+      message: Added a completely new language system
+    - type: Add
+      message: Translator devices / implants
+    - type: Remove
+      message: Old Language system
+    - type: Tweak
+      message: IPC/Vox can no longer be cloned, they arent fleshy
+  id: 22
+  time: '2025-08-08T12:17:00.0000000+00:00'

@@ -156,14 +156,6 @@
       emergencyLightColor: DarkViolet
       forceEnableEmergencyLights: true
       shuttleTime: 1200
-    hyde: # ShibaStation - funny admeme alert level
-      announcement: alert-level-hyde-announcement
-      selectable: false
-      sound: /Audio/_ShibaStation/Announcements/alert-hyde.ogg
-      color: DodgerBlue
-      forceEnableEmergencyLights: true
-      emergencyLightColor: DodgerBlue
-      shuttleTime: 600
     omicron: # Goobstation
       announcement: alert-level-omicron-announcement
       selectable: false

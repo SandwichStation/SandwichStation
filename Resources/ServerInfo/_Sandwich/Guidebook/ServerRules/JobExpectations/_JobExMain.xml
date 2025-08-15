@@ -100,7 +100,8 @@
 
   Civilian roles are typically of the least importance on the station. Still, they have jobs to do and should be expected to perform them to the best of their ability.
 
-  - [textlink="Assistant" link="SandwichJobExCivilianAssistant"]
+  - [textlink="Assistant" link="SandwichJobExCivilianPassenger"]
+  - [textlink="Assistant" link="SandwichJobExCivilianOffDuty"]
   - [textlink="Lawyer" link="SandwichJobExCivilianLawyer"]
   - [textlink="Chaplain" link="SandwichJobExCivilianChaplain"]
   - [textlink="Musician" link="SandwichJobExCivilianMusician"]

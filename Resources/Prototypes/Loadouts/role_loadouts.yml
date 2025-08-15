@@ -160,12 +160,22 @@
   nameDataset: NamesAI
   canCustomizeName: true
 
-# Civilian
+# Passenger
 - type: roleLoadout
   id: JobPassenger
   groups:
-  - GroupTankHarness
   - PassengerJumpsuit
+  - CommonBackpack
+  - PassengerShoes
+  - Glasses
+  - Pins
+
+# Off Duty
+- type: roleLoadout
+  id: JobOffDuty
+  groups:
+  - OffDutyJumpsuit
+  - GroupTankHarness
   - CommonBackpack
   - PassengerNeck
   - PassengerFace
