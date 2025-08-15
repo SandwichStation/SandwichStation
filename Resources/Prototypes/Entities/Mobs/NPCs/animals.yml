@@ -832,7 +832,7 @@
     baseSprintSpeed : 4
     weightlessAcceleration: 1.5
     weightlessFriction: 1
-    WeightlessModifier: 1
+    #WeightlessModifier: 1
   - type: Damageable
     damageContainer: Biological
     damageModifierSet: Moth

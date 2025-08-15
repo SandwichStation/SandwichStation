@@ -1,7 +1,7 @@
 - type: gameMap
   id: Elkridge
   mapName: 'Elkridge'
-  mapPath: /Maps/_Sandwich/elkridge.yml
+  mapPath: /Maps/_ShibaStation/elkridge.yml
   minPlayers: 0
   maxPlayers: 45
   stations:
