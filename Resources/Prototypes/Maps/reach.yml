@@ -28,7 +28,7 @@
   mapName: 'Reach'
   mapPath: /Maps/_Goobstation/reach.yml
   minPlayers: 0
-  maxPlayers: 10
+  maxPlayers: 3
   stations:
     Reach:
       stationProto: StandardNanotrasenStation
