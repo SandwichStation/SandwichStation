@@ -187,3 +187,21 @@ Entries:
       message: IPC/Vox can no longer be cloned, they arent fleshy
   id: 22
   time: '2025-08-08T12:17:00.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Add
+      message: New lobby screens
+    - type: Remove
+      message: Goob log
+    - type: Remove
+      message: Shiba log
+    - type: Add
+      message: Shadowkin guidebook entry
+    - type: Remove
+      message: Unused files deleted
+    - type: Add
+      message: Reach (Max 3 crew)
+    - type: Fix
+      message: Rollback of Elkridge (Was broken)
+  id: 23
+  time: '2025-08-15T06:52:46.0000000+00:00'
