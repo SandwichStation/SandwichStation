@@ -14,3 +14,57 @@
   name: .Yuuchan - SandwichStation
   path:
     path: /Audio/_Sandwich/Jukebox/sandwichstation.ogg
+
+- type: jukebox
+  id: doge_adventure
+  name: Doge Adventure
+  path:
+    path: /Audio/_Sandwich/Jukebox/doge_adventure.ogg
+
+- type: jukebox
+  id: what_a_mario_world
+  name: What a mario world
+  path:
+    path: /Audio/_Sandwich/Lobby/athletic_what_a_mario_world.ogg
+
+- type: jukebox
+  id: boombox_5_extended
+  name: Boombox 5 extended
+  path:
+    path: /Audio/_Sandwich/Lobby/boombox_5_extended.ogg
+
+- type: jukebox
+  id: lagoona
+  name: Lagoona
+  path:
+    path: /Audio/_Sandwich/Lobby/lagoona.ogg
+
+- type: jukebox
+  id: all_i_want_for_christmas
+  name: Xmas - All I Want for Christmas
+  path:
+    path: /Audio/_Sandwich/Lobby/xmas/all_i_want_for_christmas.ogg
+
+- type: jukebox
+  id: komm_susser_tod_astrophysics
+  name: Komm susser tod
+  path:
+    path: /Audio/_Sandwich/Lobby/retro/komm_susser_tod_astrophysics.ogg
+
+- type: jukebox
+  id: touchout
+  name: Out of Touch
+  path:
+    path: /Audio/_Sandwich/Lobby/retro/touchout.ogg
+
+- type: jukebox
+  id: sparkanoko
+  name: Sparkanoko
+  path:
+    path: /Audio/_Sandwich/Lobby/memes/sparkanoko.ogg
+
+- type: jukebox
+  id: superkarts
+  name: Superkarts
+  path:
+    path: /Audio/_Sandwich/Lobby/superkarts.ogg
