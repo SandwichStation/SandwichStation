@@ -205,3 +205,13 @@ Entries:
       message: Rollback of Elkridge (Was broken)
   id: 23
   time: '2025-08-15T06:52:46.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Add
+      message: Added music to jukebox
+    - type: Fix
+      message: Fixed IPC languages
+    - type: Fix
+      message: Cryosleep now doesnt remove you after 5 mins, hurray!
+  id: 24
+  time: '2025-08-17T09:30:44.0000000+00:00'
