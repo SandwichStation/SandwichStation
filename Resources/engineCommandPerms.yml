@@ -41,7 +41,6 @@
   - inrangeunoccluded
   - lsgrid
   - lsmap
-  - listplayers
   - loc
   - mem
   - netaudit
@@ -113,11 +112,14 @@
 
 - Flags: ADMIN
   Commands:
-  - listplayers
   - tp
   - tpto
+  
+- Flags: PII
+  Commands:
+  - listplayers
 
-- Flags: FULLADMIN # Goobstation (and every setting in this flag)
+- Flags: FULLADMIN
   Commands:
   - self
   - entities
