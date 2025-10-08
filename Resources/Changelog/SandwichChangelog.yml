@@ -215,3 +215,9 @@ Entries:
       message: Cryosleep now doesnt remove you after 5 mins, hurray!
   id: 24
   time: '2025-08-17T09:30:44.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Fix
+      message: Fixed dead links
+  id: 25
+  time: '2025-10-08T08:20:28.0000000+00:00'
