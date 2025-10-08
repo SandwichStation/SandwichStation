@@ -7,7 +7,7 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-defaultWindowTitle: ShibaStation
+defaultWindowTitle: SandwichStation
 windowIconSet: /Textures/Logo/icon
 splashLogo: /Textures/Logo/logo.png
 
