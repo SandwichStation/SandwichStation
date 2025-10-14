@@ -129,7 +129,7 @@
 - Flags: FUN
   Commands:
   - tippy
-  - loadprototype # Goobstation
+  - loadprototype
   - tip
 
 - Flags: SERVER
@@ -175,4 +175,4 @@
 
 - Commands:
   - "|"
-  - oldhelp
+  #- oldhelp #Depricated
