@@ -25,7 +25,7 @@
     - gc
     - gc_mode
     - cvar
-    #- fuckrules
+    #- fuckrules #Fuck this command outside of debug!
     - midipanic
     - replay_recording_start
     - replay_recording_stop
