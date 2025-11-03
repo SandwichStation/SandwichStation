@@ -221,3 +221,11 @@ Entries:
       message: Fixed dead links
   id: 25
   time: '2025-10-08T08:20:28.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Tweak
+      message: Renamed referenced fax to delta sector
+    - type: Add
+      message: Added admeme for Wolfkast
+  id: 26
+  time: '2025-11-03T12:31:16.0000000+00:00'
