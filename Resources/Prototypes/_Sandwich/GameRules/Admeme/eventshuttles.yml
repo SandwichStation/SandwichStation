@@ -1,0 +1,12 @@
+# CentComm Visitors
+
+- type: entity
+  parent: BaseUnknownShuttleRule
+  id: CCvisitship
+  components:
+  - type: StationEvent
+    reoccurrenceDelay: 30
+    duration: null
+    maxOccurrences: 1
+  - type: LoadMapRule
+    preloadedGrid: ConsulShuttle
