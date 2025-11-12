@@ -1,12 +1,15 @@
 {
     "version": 1,
     "license": "CC-BY-SA-3.0",
-    "copyright": "by marteeno on discord for ShibaStation",
-    "size": {"x": 32, "y": 32},
+    "copyright": "Original by marteeno on discord, Resprite by bodenpflanze",
+    "size": {
+        "x": 32,
+        "y": 32
+    },
     "states": [
-      {
-        "name": "ears",
-        "directions": 4
-      }
+        {
+            "name": "ears",
+            "directions": 4
+        }
     ]
-  }
+}
