@@ -229,3 +229,9 @@ Entries:
       message: Added admeme for Wolfkast
   id: 26
   time: '2025-11-03T12:31:16.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Tweak
+      message: Resprites of Ariral species (Thanks Caitlin!)
+  id: 27
+  time: '2025-11-12T07:25:08.0000000+00:00'
