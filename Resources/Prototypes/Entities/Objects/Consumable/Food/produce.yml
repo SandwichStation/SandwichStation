@@ -1420,6 +1420,11 @@
           Quantity: 1
         - ReagentId: CocoaPowder
           Quantity: 1
+  - type: Extractable
+    juiceSolution:
+      reagents:
+      - ReagentId: CocoaPowder
+        Quantity: 2
   - type: Sprite
     sprite: Objects/Specific/Hydroponics/cocoa.rsi
   - type: Produce
