@@ -235,3 +235,9 @@ Entries:
       message: Resprites of Ariral species (Thanks Caitlin!)
   id: 27
   time: '2025-11-12T07:25:08.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Fix
+      message: Fixed admin link
+  id: 28
+  time: '2025-11-19T12:35:38.0000000+00:00'
