@@ -19,3 +19,13 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "MRWEEBL"
   source: "https://www.youtube.com/watch?v=sd4bqmP_460"
+
+- files: ["arcade_slayer.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Kazyu the Avali"
+  source: "https://www.twitch.tv/kazyu_the_avali"
+
+  - files: ["the_heist_by_kaz.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Kazyu the Avali"
+  source: "https://www.twitch.tv/kazyu_the_avali"
