@@ -247,3 +247,9 @@ Entries:
       message: Fixes adminchat, for real this time.
   id: 29
   time: '2025-11-19T13:26:43.0000000+00:00'
+- author: B3CKDOOR
+  changes:
+    - type: Add
+      message: Added songs to jukebox from Kazyu
+  id: 30
+  time: '2025-12-04T04:24:06.0000000+00:00'
