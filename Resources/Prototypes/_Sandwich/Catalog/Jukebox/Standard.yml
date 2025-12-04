@@ -68,3 +68,21 @@
   name: Superkarts
   path:
     path: /Audio/_Sandwich/Lobby/superkarts.ogg
+
+- type: jukebox
+  id: arcadeslayer
+  name: Arcade Slayer
+  path:
+    path: /Audio/_Sandwich/Lobby/arcade_slayer.ogg
+
+- type: jukebox
+  id: theheist
+  name: The Heist
+  path:
+    path: /Audio/_Sandwich/Lobby/the_heist_by_kaz.ogg
+
+- type: jukebox
+  id: creatingsandwiches
+  name: Creating Sandwiches
+  path:
+    path: /Audio/_Sandwich/Lobby/creating_sandwiches.ogg
