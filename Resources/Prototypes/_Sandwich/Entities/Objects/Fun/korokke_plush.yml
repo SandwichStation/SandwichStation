@@ -1,0 +1,29 @@
+- type: entity
+  parent: BasePlushie
+  id: PlushieKorokke
+  name: Korokke moff Plush
+  description: it is the cargo moff
+  components:
+  - type: Sprite
+    sprite: _Sandwich/Objects/Fun/korokke_plush.rsi
+    state: korokke
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/Voice/Moth/moth_chitter.ogg
+      params:
+        variation: 0.03
+  - type: EmitSoundOnActivate
+    sound:
+      path: /Audio/Voice/Moth/moth_chitter.ogg
+      params:
+        variation: 0.03
+  - type: EmitSoundOnTrigger
+    sound:
+      path: /Audio/Voice/Moth/moth_chitter.ogg
+      params:
+        variation: 0.03
+  - type: EmitSoundOnCollide
+    sound:
+      path: /Audio/Voice/Moth/moth_chitter.ogg
+      params:
+        variation: 0.03
