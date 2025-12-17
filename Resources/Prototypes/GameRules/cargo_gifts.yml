@@ -302,19 +302,14 @@
   parent: CargoGiftsBase
   components:
   - type: StationEvent
-    weight: 4
-    duration: 120
+    weight: 3
+    duration: 30
     earliestStart: 20
-    minimumPlayers: 50
-    chaos: # Goobstation
+    chaos:
       Friend: 10
-    eventType: FreeStuffUseful # Goobstation
-  # Goobstation
-  - type: GameRule
-    chaosScore: -80
+    eventType: FreeStuffUseful
   - type: CargoGiftsRule
     description: cargo-gift-plush
     dest: cargo-gift-dest-bar
     gifts:
-      CrateFunPlushie: 1
-      CrateFunSelfInsertPlushie: 1
+      FunCrewPlushies: 1
