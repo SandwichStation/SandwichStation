@@ -1,0 +1,9 @@
+- type: entity
+  parent: BasePlushie
+  id: PlushieKorokke
+  name: Korokke moff Plush
+  description: it is the cargo moff
+  components:
+  - type: Sprite
+    sprite: _Sandwich/Objects/Fun/korokke_plush.rsi
+    state: korokke
