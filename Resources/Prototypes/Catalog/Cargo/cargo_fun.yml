@@ -397,8 +397,8 @@
 - type: cargoProduct
   id: FunCrewPlushies # Self insert crate :-)
   icon:
-    sprite: _Goobstation/Objects/Fun/selfinsert.rsi
-    state: plushie_knott
+    sprite: _ShibaStation/Objects/Fun/ShibPlush/dave.rsi
+    state: icon
   product: CrateFunSelfInsertPlushie
   cost: 1000
   category: cargoproduct-category-name-fun

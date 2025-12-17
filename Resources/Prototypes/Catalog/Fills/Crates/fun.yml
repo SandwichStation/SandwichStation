@@ -248,8 +248,6 @@
         weight: 0.65
       - id: PlushieHaato
         weight: 0.65
-      - id: PlushieTinyLane
-        weight: 0.65
       - id: PlushieChewsTheShoes
         weight: 0.65
 
@@ -618,30 +616,17 @@
   components:
   - type: StorageFill
     contents:
-      - id: PlushieBenny
-      - id: PlushieCairo
-      - id: PlushiePash
-      - id: PlushieDelta
-      - id: PlushieRaki
-      - id: PlushieTina
-      - id: PlushieKnott
-      - id: PlushieZlorb
-      - id: PlushieTiderMoth
-      - id: PlushieCommandHuman
-      - id: PlushieRanork
-      - id: PlushieWehWinter
-      - id: PlushieHaleigh
-      - id: PlushieStoop
-      - id: PlushieAhti
-      - id: PlushieSparkle
-      - id: PlushieGrub
-      - id: PlushieFern
-      - id: PlushieHexadecimal
-      - id: PlushieFlint
-      - id: PlushiePistachio
-      - id: PlushieSeesTheStars
-      - id: PlushieDumbLizard
-      - id: PlushieSqueaks
-      - id: PlushieHaato
-      - id: PlushieTinyLane
-      - id: PlushieChewsTheShoes
+    - id: PlushieMiccau
+    - id: PlushieDeroh
+    - id: PlushieCass
+    - id: PlushieAchto
+    - id: PlushieLucy
+    - id: PlushieDave
+    - id: PlushieAkuji
+    - id: PlushieCaitlin
+    - id: PlushieLexai
+    - id: PlushieSevan
+    - id: PlushieShuukei
+    - id: PlushieTwiggy
+    - id: LizardShark
+    - id: PlushieKorokke
