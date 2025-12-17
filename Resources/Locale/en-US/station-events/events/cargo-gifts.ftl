@@ -27,3 +27,4 @@ cargo-gift-space-protection = Space Hazard Protection
 cargo-gift-fire-protection = Fire Protection
 cargo-gift-security-guns = Lethal Weapons
 cargo-gift-security-riot = Riot Gear
+cargo-gift-plush = Plushie Crate for emotional support

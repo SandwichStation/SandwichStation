@@ -296,3 +296,20 @@
       SecurityRiot: 2
       SecurityRestraints: 2
       SecurityNonLethal: 2
+
+- type: entity
+  id: GiftsPlushies
+  parent: CargoGiftsBase
+  components:
+  - type: StationEvent
+    weight: 3
+    duration: 30
+    earliestStart: 20
+    chaos:
+      Friend: 10
+    eventType: FreeStuffUseful
+  - type: CargoGiftsRule
+    description: cargo-gift-plush
+    dest: cargo-gift-dest-bar
+    gifts:
+      FunCrewPlushies: 1
