@@ -77,7 +77,6 @@
         - PlushieDumbLizard
         - PlushieSqueaks
         - PlushieHaato
-        - PlushieTinyLane
         - PlushieChewsTheShoes
 
 
@@ -99,7 +98,7 @@
         - PlushieSharkBlue
         - PlushieSharkPink
         - PlushieSharkGrey
-        # ShibaStation Plushies Start
+        # SandwichStation Plushies Start
         - PlushieMiccau
         - PlushieDeroh
         - PlushieCass
@@ -112,15 +111,12 @@
         - PlushieSevan
         - PlushieShuukei
         - PlushieTwiggy
-        # ShibaStation Plushies End
+        - PlushieKorokke
+        # SandwichStation Plushies End
         - ToyAmongPequeno
         - ToyMouse
         - PlushieDiona
         - PlushieArachind
-        - PlushieBingle # Goobstation
-        - PlushieSamantha # Goobstation
-        - PlushieJvne # Goobstation
-        - PlushieAbductor # Goobstation
       chance: 0.5
       offset: 0.2
 
