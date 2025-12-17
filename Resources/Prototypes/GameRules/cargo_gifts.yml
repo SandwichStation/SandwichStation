@@ -296,3 +296,25 @@
       SecurityRiot: 2
       SecurityRestraints: 2
       SecurityNonLethal: 2
+
+- type: entity
+  id: GiftsPlushies
+  parent: CargoGiftsBase
+  components:
+  - type: StationEvent
+    weight: 4
+    duration: 120
+    earliestStart: 20
+    minimumPlayers: 50
+    chaos: # Goobstation
+      Friend: 10
+    eventType: FreeStuffUseful # Goobstation
+  # Goobstation
+  - type: GameRule
+    chaosScore: -80
+  - type: CargoGiftsRule
+    description: cargo-gift-plush
+    dest: cargo-gift-dest-bar
+    gifts:
+      CrateFunPlushie: 1
+      CrateFunSelfInsertPlushie: 1
